@@ -1,2 +1,4 @@
-# projeto-bootcamp-java-dio-introducao-ao-git
-Calculadora IMC básica em java para subir ao github, com objetivo de aprender comandos no git
+# Projeto do curso introdução ao git
+Calculadora IMC básica em java<br>
+<strong>Objetivo:</strong><br>
+Aprender comandos básicos do git e como hospedar em um repositório remoto(GitHub)
